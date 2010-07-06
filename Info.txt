@@ -1,0 +1,7 @@
+SmsPrice
+wersja 1.0
+
+Autor: m4tx
+www.m4tx.2ap.pl
+
+Program s³u¿y do sprawdzania ceny, jak¹ zap³acimy wysy³aj¹c wiadomoœæ SMS na podany numer us³ugi SMS Premium.
