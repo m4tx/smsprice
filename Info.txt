@@ -1,5 +1,5 @@
 SmsPrice
-wersja 1.0
+wersja 1.1
 
 Autor: m4tx
 www.m4tx.2ap.pl

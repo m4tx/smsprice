@@ -1,2 +1,9 @@
 Wersja 1.0 (07-07-2010)
- - Pierwsza oficjalna wersja programu
+ - Pierwsza oficjalna wersja programu.
+
+Wersja 1.1 (23-07-2010)
+ - Poprawiony bug powoduj¹cy zawieszenie i wy³¹czenie aplikacji przy próbie wpisania wiêcej ni¿ oœmiu cyfr.
+ - Zamykanie programu oraz okna "O programie" klawiszem Escape.
+ - Zmiana kursora na r¹czkê przy najechaniu kursorem na link do strony autora.
+ - Poprawienie wygl¹du pod systemem Windows XP, oraz gdy u¿ytkownik zmieni³ kolor okien.
+ - Inne niewielkie zmiany.
